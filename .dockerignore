@@ -1,0 +1,9 @@
+/node_modules
+/static
+
+Dockerfile
+Dockerfile.prod
+
+.idea
+.gitignore
+.git
